@@ -1,0 +1,10 @@
+venv
+__pycache__
+*/__pycache__
+data
+results
+wandb
+build
+dist
+*egg-info
+*.onnx

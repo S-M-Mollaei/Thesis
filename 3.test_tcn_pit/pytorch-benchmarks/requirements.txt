@@ -1,0 +1,9 @@
+torch
+torchvision
+pytorch_model_summary
+tqdm
+torchaudio
+Pillow
+pandas
+scikit-learn
+scikit-image
